@@ -1,5 +1,5 @@
 {
-  "name": "bolt-cep",
+  "name": "bolt-router-example",
   "version": "0.0.1",
   "scripts": {
     "dev": "vite",

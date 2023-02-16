@@ -1,11 +1,10 @@
 import { CEP_Config } from "vite-cep-plugin";
 import { version } from "./package.json";
 
-
 const config: CEP_Config = {
   version,
-  id: "com.bolt.cep",
-  displayName: "Bolt CEP",
+  id: "com.bolt-router.cep",
+  displayName: "Bolt Router",
   symlink: "local",
   port: 3000,
   servePort: 5000,
@@ -53,7 +52,6 @@ const config: CEP_Config = {
       width: 600,
       height: 650,
     },
-
   ],
   build: {
     jsxBin: "off",
