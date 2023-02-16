@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ExtensionList>
+  <Extension Id="com.bolt.cep.main">
+    <HostList>
+      <Host Name="AEFT" Port="8860"/>
+      <Host Name="PPRO" Port="8861"/>
+      <Host Name="ILST" Port="8862"/>
+      <Host Name="PHXS" Port="8863"/>
+      <Host Name="FLPR" Port="8864"/>
+    </HostList>
+  </Extension>
+</ExtensionList>
